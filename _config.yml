@@ -1,0 +1,19 @@
+title: <p align="center"> Arian Skoki </p>
+logo: "/images/as_circular.png?raw=true"
+description:
+  <p align="center">
+  <a href="pdf/Arian_Skoki_cv.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/arian-skoki/">LinkedIn</a> |
+  <a href="https://github.com/askoki">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am approaching the end of my PhD journey in Computer Science. My expertize is centered on the application of AI and Machine Learning in sports, namely football. 
+  <br><br>
+  Most of my work focuses on using GPS, tracking and medical data to provide valuable insights to performance coaches and medical staff within the football club.
+  <br><br>
+  </p>
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
