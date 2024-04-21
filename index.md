@@ -9,7 +9,7 @@ layout: default
 
 <img src="images/medphy.png?raw=true"/>
 
-I developed a web application designed to assist football medical teams in managing player injuries more effectively. t streamlines the recovery tracking and facilitates a structured return-to-play protocol, ensuring a safe and efficient rehabilitation process.
+I developed a web application designed to assist football medical teams in managing player injuries more effectively. It streamlines the recovery tracking and facilitates a structured return-to-play protocol, ensuring a safe and efficient rehabilitation process.
 
 ---
 
