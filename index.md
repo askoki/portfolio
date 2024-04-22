@@ -3,7 +3,7 @@ title: Homepage
 layout: default
 ---
 
-## What I do?
+## What I do? 💼
 
 <hr class="bigger-hr">
 
@@ -31,12 +31,12 @@ I have practical experience in automating the data collection and cleaning proce
 
 <hr class="bigger-hr">
 
-## Research
+## Research 🎓
 
 ---
 
 ### Injury duration estimator
-[Revolutionizing Soccer Injury Management: Predicting Muscle Injury Recovery Time Using ML](https://www.mdpi.com/2076-3417/13/10/6222)
+[Revolutionizing Soccer Injury Management: Predicting Muscle Injury Recovery Time Using ML 🔗](https://www.mdpi.com/2076-3417/13/10/6222)
 
 <img src="images/xgb_vs_expert.png?raw=true"/>
 
@@ -47,7 +47,7 @@ This research could significantly influence sports medicine by aiding teams in m
 ---
 
 ### Clustering match intensity
-[Extended Energy-Expenditure Model in Soccer: Evaluating Player Performance in the Context of the Game](https://www.mdpi.com/1424-8220/22/24/9842)
+[Extended Energy-Expenditure Model in Soccer: Evaluating Player Performance in the Context of the Game 🔗](https://www.mdpi.com/1424-8220/22/24/9842)
 
 <img src="images/match_intensity.jpg?raw=true"/>
 
@@ -60,7 +60,7 @@ This deeper analysis can provide valuable insights for coaches and managers abou
 ---
 
 ### Building player profiles
-[Building Individual Player Performance Profiles According to Pre-Game Expectations and Goal Difference in Soccer ](https://www.mdpi.com/1424-8220/24/5/1700)
+[Building Individual Player Performance Profiles According to Pre-Game Expectations and Goal Difference in Soccer 🔗](https://www.mdpi.com/1424-8220/24/5/1700)
 
 <img src="images/player_profiles.png?raw=true"/>
 
@@ -73,48 +73,48 @@ The findings from this research could potentially enhance decision-making in soc
 
 ### NFL DPI Prediction
 
-[ML-Based Approach for NFL Defensive Pass Interference Prediction Using GPS Tracking Data](https://ieeexplore.ieee.org/abstract/document/9596877)
+[ML-Based Approach for NFL Defensive Pass Interference Prediction Using GPS Tracking Data 🔗](https://ieeexplore.ieee.org/abstract/document/9596877)
 
 ---
 
 ### Automatic music transcription
 
-[Automatic music transcription for traditional woodwind instruments sopele](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302703)
+[Automatic music transcription for traditional woodwind instruments sopele 🔗](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302703)
 
 
 <hr class="bigger-hr">
 
-## Talks
+## Talks 🎙️
 
 ---
 
 ### AI Challenges
 
-[Bread and Butter for Injury Prediction in Soccer](https://itki.uni-nke.hu/hirek/2023/01/06/current-challenges-of-artificial-intelligence-a-budapest-rijeka-dialogue-between-technologists-and-lawyers-workshop)
+[Bread and Butter for Injury Prediction in Soccer 🔗](https://itki.uni-nke.hu/hirek/2023/01/06/current-challenges-of-artificial-intelligence-a-budapest-rijeka-dialogue-between-technologists-and-lawyers-workshop)
 
 ### DSC Adria 2023
 
-[Unlocking the Secrets of Soccer Performance](https://www.youtube.com/watch?v=HpyKybpfdqU)
+[Unlocking the Secrets of Soccer Performance 🔗](https://www.youtube.com/watch?v=HpyKybpfdqU)
 
 ### MLSA 23
 
-[Analyzing Player Performance in the Context of the Game](https://dtai.cs.kuleuven.be/events/MLSA23/schedule.php)
+[Analyzing Player Performance in the Context of the Game 🔗](https://dtai.cs.kuleuven.be/events/MLSA23/schedule.php)
 
 ### DSC Europe 23
 
-[Injury prediction in Soccer: Will it ever happen?](https://datasciconference.com/)
+[Injury prediction in Soccer: Will it ever happen? 🔗](https://datasciconference.com/)
 
 ### Ri-Comp 24
 
-[Soccer Dilemma: Identifying Supersubs and Mastering Tactical Substitution](https://www.youtube.com/live/XUrQ1IAczfM?si=qb5mjDenWH0Os5eE&t=18470)
+[Soccer Dilemma: Identifying Supersubs and Mastering Tactical Substitution 🔗](https://www.youtube.com/live/XUrQ1IAczfM?si=qb5mjDenWH0Os5eE&t=18470)
 
 <hr class="bigger-hr">
 
-## Community
+## Community 👥
 
 ---
 
-### Riteh Web Team ([RWT](https://rwt.riteh.hr/home?lang=en))
+### Riteh Web Team ([RWT🔗](https://rwt.riteh.hr/home?lang=en))
 
 <img src="images/rwt.jpg?raw=true"/>
 
@@ -127,7 +127,7 @@ meaningful project work but also foster new friendships.
 
 ---
 
-### [Ri-Hack](https://www.ri-hack.com/)
+### [Ri-Hack 🔗](https://www.ri-hack.com/)
 
 <img src="images/ri-hack-2.jpg?raw=true"/>
 
@@ -135,7 +135,7 @@ Ri-Hack is a 24-hour hackathon challenging students to develop software solution
 
 ---
 
-### [Ri-Comp](https://www.ri-comp.com/)
+### [Ri-Comp 🔗](https://www.ri-comp.com/)
 
 <img src="images/ricomp_2024.jpg?raw=true"/>
 
@@ -143,7 +143,7 @@ My friends and I successfully organized 1st Ri-Comp conference in 2024! I had an
 
 ---
 
-### [Ri-Connect](https://www.entrio.hr/en/event/ri-connect-18318)
+### [Ri-Connect 🔗](https://www.entrio.hr/en/event/ri-connect-18318)
 
 <img src="images/riconnect.jpeg?raw=true"/>
 
