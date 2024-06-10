@@ -11,11 +11,13 @@ layout: default
 
 <img src="images/fbref_radar.png?raw=true"/>
 
-Data from the FIFA football game was utilized to analyze player ratings based on the video game estimations, 
+Data from the FIFA football game was utilized to **analyze** player ratings based on the video game estimations, 
 while FBRef provided detailed statistical data on player performances during the World Cup. 
 Additionally, running performances were manually extracted from FIFA's publicly available PDF reports. 
-All this information was carefully integrated into a Streamlit website, [which visitors are invited to explore](https://fifa-wc22.streamlit.app/). 
+All this information was carefully integrated into a **Streamlit** website, [which visitors are invited to explore](https://fifa-wc22.streamlit.app/). 
 The website allows users to compare players across various categories, offering insights into their on-field performance.
+
+**#analytics 📊  #streamlit 🌐 #visualization 📈 #python 🐍**
 
 ---
 
@@ -23,7 +25,11 @@ The website allows users to compare players across various categories, offering 
 
 <img src="images/medphy.png?raw=true"/>
 
-I developed a web application designed to assist football medical teams in managing player injuries more effectively. It streamlines the recovery tracking and facilitates a structured return-to-play protocol, ensuring a safe and efficient rehabilitation process.
+I developed a **web application** designed to assist football medical teams in managing player injuries more effectively. 
+It streamlines the recovery tracking and facilitates a structured **return-to-play** protocol, 
+ensuring a safe and efficient rehabilitation process.
+
+**#development 💻 #docker 🐳 #python 🐍 #javascript 👨‍💻**
 
 ---
 
@@ -31,7 +37,11 @@ I developed a web application designed to assist football medical teams in manag
 
 <img src="images/streamlit_analytics_app.png?raw=true"/>
 
-In collaboration with conditioning coaches, I analyzed GPS data to visualize player load. This included dynamic dashboards that showcased player and team metrics, individual session insights, and weekly performance reports. By using Streamlit, I transformed boresome excel sheets into interactive visualizations, providing an intuitive and engaging user experience for data-driven decision-making.
+In collaboration with conditioning coaches, I **analyzed** GPS data to **visualize** player load. 
+This included dynamic **dashboards** that showcased player and team metrics, individual session insights, and weekly performance reports. 
+By using **Streamlit**, I transformed boresome Excel sheets into interactive visualizations, providing an intuitive and engaging user experience for data-driven decision-making.
+
+**#analytics 📊 #visualization 📈 #python 🐍**
 
 ---
 
@@ -39,7 +49,12 @@ In collaboration with conditioning coaches, I analyzed GPS data to visualize pla
 
 <img src="images/injury_collection_process.jpg?raw=true"/>
 
-I have practical experience in automating the data collection and cleaning processes. My work primarily involves integrating diverse data types, including GPS, tracking, event, and performance data. While my focus has been on GPS data, I can adapt and find my way in handling a variety of data sources.
+I have practical experience in automating the **data collection** and **cleaning** processes. 
+My work primarily involves integrating diverse data types, including **GPS**, **tracking**, **event**, and **performance** data. 
+While my focus has been on GPS data, I can adapt and find my way in handling a variety of data sources.
+
+**#dataprocessing ⚙️ #datacollection 🗂️ #datacleaning 🧹 #python 🐍**
+
 
 <hr class="bigger-hr">
 
@@ -56,6 +71,8 @@ This research tackles the challenging task of predicting the recovery time after
 We found that including the expert’s predictions as a feature in our models improved their performance. 
 This research could significantly influence sports medicine by aiding teams in making informed decisions about when a player should return to play, potentially enhancing performance and minimizing the risk of further injury.
 
+**#machinelearning 🧠️ #injury 🚑️ #football ⚽ #XGBoost 🚀**
+
 ---
 
 ### Clustering match intensity
@@ -69,6 +86,8 @@ We use GPS wearable devices to create a new performance analysis framework, anal
 Our approach, which segments intensity into low, middle, and high periods, offers a more comprehensive explanation than traditional metrics. 
 This deeper analysis can provide valuable insights for coaches and managers about player responses to different game situations.
 
+**#machinelearning 🧠️ #running 🏃‍♂️️ #football ⚽ #K-means 🎯**
+
 ---
 
 ### Building player profiles
@@ -81,11 +100,15 @@ Using GPS wearable sensors, we track players’ energy expenditure in 5-minute i
 We’ve developed a mathematical model that considers these factors to predict player effort.
 The findings from this research could potentially enhance decision-making in soccer and provide a deeper understanding of individual player characteristics.
 
+**#optimization 🔧 #running 🏃‍♂️️ #football ⚽ #Nelder-Mead 🔍 #PSO 🐝**
+
 ---
 
 ### NFL DPI Prediction
 
 [ML-Based Approach for NFL Defensive Pass Interference Prediction Using GPS Tracking Data 🔗](https://ieeexplore.ieee.org/abstract/document/9596877)
+
+**#machinelearning 🧠️ #NFL 🏈️️ #DPI 🚫 #LSTM ⏳ #GRU ⏳ #ANN ⏳**
 
 ---
 
@@ -93,6 +116,7 @@ The findings from this research could potentially enhance decision-making in soc
 
 [Automatic music transcription for traditional woodwind instruments sopele 🔗](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302703)
 
+**#machinelearning 🧠️ #music 🎵 #transcription 🎼 #woodwind 🎷**
 
 <hr class="bigger-hr">
 
@@ -100,25 +124,33 @@ The findings from this research could potentially enhance decision-making in soc
 
 ---
 
-### AI Challenges
+### AI Challenges 🇬🇧
 
 [Bread and Butter for Injury Prediction in Soccer 🔗](https://itki.uni-nke.hu/hirek/2023/01/06/current-challenges-of-artificial-intelligence-a-budapest-rijeka-dialogue-between-technologists-and-lawyers-workshop)
 
-### DSC Adria 2023
+### DSC Adria 2023 🇬🇧
 
-[Unlocking the Secrets of Soccer Performance 🔗](https://www.youtube.com/watch?v=HpyKybpfdqU)
+[Unlocking the Secrets of Soccer Performance 🔗 🎥](https://www.youtube.com/watch?v=HpyKybpfdqU)
 
-### MLSA 23
+### MLSA 23 🇬🇧
 
 [Analyzing Player Performance in the Context of the Game 🔗](https://dtai.cs.kuleuven.be/events/MLSA23/schedule.php)
 
-### DSC Europe 23
+### DSC Europe 23 🇬🇧
 
 [Injury prediction in Soccer: Will it ever happen? 🔗](https://datasciconference.com/)
 
-### Ri-Comp 24
+### DSC Adria 2024 🇬🇧
 
-[Soccer Dilemma: Identifying Supersubs and Mastering Tactical Substitution 🔗](https://www.youtube.com/live/XUrQ1IAczfM?si=qb5mjDenWH0Os5eE&t=18470)
+[Coach’s Challenge: Choosing the Right Player at the Right Time in Soccer 🔗](https://dscadria.com)
+
+### Ri-Comp 24 🇭🇷
+
+[Soccer Dilemma: Identifying Supersubs and Mastering Tactical Substitution 🔗 🎥](https://www.youtube.com/live/XUrQ1IAczfM?si=qb5mjDenWH0Os5eE&t=18470)
+
+### .debug 2024 🇭🇷
+
+[Livaja ili Petković? Tko je Dalićev as iz rukava? 🔗](https://www.debug.hr/)
 
 <hr class="bigger-hr">
 
