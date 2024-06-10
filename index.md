@@ -7,6 +7,18 @@ layout: default
 
 <hr class="bigger-hr">
 
+### FIFA World Cup 2022 Analytics
+
+<img src="images/fbref_radar.png?raw=true"/>
+
+Data from the FIFA football game was utilized to analyze player ratings based on the video game estimations, 
+while FBRef provided detailed statistical data on player performances during the World Cup. 
+Additionally, running performances were manually extracted from FIFA's publicly available PDF reports. 
+All this information was carefully integrated into a Streamlit website, [which visitors are invited to explore](https://fifa-wc22.streamlit.app/). 
+The website allows users to compare players across various categories, offering insights into their on-field performance.
+
+---
+
 ### Injury management app
 
 <img src="images/medphy.png?raw=true"/>
