@@ -104,6 +104,28 @@ The findings from this research could potentially enhance decision-making in soc
 
 ---
 
+### Fatigue modeling in football
+[Enhancing Biophysical Muscle Fatigue Model in the Dynamic Context of Soccer 🔗](https://www.mdpi.com/1424-8220/24/24/8128)
+
+<img src="images/player_battery.png?raw=true"/>
+
+Muscle fatigue models often fall short in replicating the dynamic and abrupt intensity changes of real football matches.
+In this work, we refine an existing biophysical model to better reflect soccer-specific demands by tuning it across grip strength tests, soccer-specific drills, and actual match data.
+Our approach showed improved R² scores across various protocols, confirming its ability to adapt to fast-changing fatigue patterns.
+This model provides a stronger link between real-time physical load and tactical decision-making, and opens new avenues for monitoring fatigue during matches or return-to-play phases.
+
+**#fatigue 🧪 #modeling 📈 #football ⚽ #biomechanics 🦵 #sportsanalytics 📊**
+
+---
+
+### Cognitive load & physical performance
+
+[Exploring the Impact of the Perceived Cognitive Load on the Physical Performance in Soccer 🔗](https://ev.fe.uni-lj.si/3-2024/Skoki.pdf)
+
+**#cognitive 🧠 #running 🏃‍♂️ #football ⚽ #K-means 🎯 #mentalfatigue 😵**
+
+---
+
 ### NFL DPI Prediction
 
 [ML-Based Approach for NFL Defensive Pass Interference Prediction Using GPS Tracking Data 🔗](https://ieeexplore.ieee.org/abstract/document/9596877)
@@ -151,6 +173,10 @@ The findings from this research could potentially enhance decision-making in soc
 ### .debug 2024 🇭🇷
 
 [Livaja ili Petković? Tko je Dalićev as iz rukava? 🔗](https://www.debug.hr/)
+
+### DSC Europe 24 🇬🇧
+
+[Out of Gas by Half-Time? Unpacking the Science Behind ‘Heavy Legs’  🔗](https://datasciconference.com/)
 
 <hr class="bigger-hr">
 
